@@ -40,8 +40,6 @@ Because the "bob" service is flaky, a Dapr resiliency policy is configured to re
 - Click on the first endpoint of the "alice" service to retrieve the weather forecast from "bob" and let "carol" log the event.
 - Use the "Traces" view to monitor the operation.
 
-![dashboard_resources](https://github.com/asimmon/aspire-dapr-demo/assets/14242083/32b57e38-92a6-482a-81b5-a57fcbd76de7)
+![dashboard_resources](https://github.com/asimmon/aspire-dapr-demo/assets/14242083/a027f2d4-beb0-4faa-9ea5-1982bd742587)
 
-![distributed_trace](https://github.com/asimmon/aspire-dapr-demo/assets/14242083/d5daa9e7-c3cb-44ac-af39-c4b08a6bba94)
-
-
+![distributed_trace](https://github.com/asimmon/aspire-dapr-demo/assets/14242083/dde6838b-5f5b-4f28-a92b-4658ddd78912)
